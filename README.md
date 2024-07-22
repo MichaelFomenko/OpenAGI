@@ -1,2 +1,2 @@
 # OpenAGI
-OpenAGI is a Open Source Manhattan AI Project
+OpenAGI is an Open Source Manhattan AI Project
